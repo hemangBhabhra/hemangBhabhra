@@ -73,4 +73,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemangBhabhra&show_icons=true&locale=en" alt="hemang-bhabhra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangBhabhra&" alt="hemang-bhabhra" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hemangBhabhra" alt="hemangBhabhra's GitHub Streak" />
+</p>
